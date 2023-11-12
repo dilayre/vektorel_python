@@ -1,1 +1,1 @@
-this is my python exercise
+Here are the exercises I did with Python
